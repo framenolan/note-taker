@@ -24,11 +24,19 @@ This Express.js app allows the user to take and save notes.
 
 ## Installation
 
+To install the required packages, enter the follow command:
 
+```md
+npm install
+```
 
 ## Technologies
 
-- 
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
 
 ## Usage
 
@@ -50,7 +58,7 @@ This Express.js app allows the user to take and save notes.
 
 ## Questions
 
-Please checkout [https://github.com/framenolan/](https://github.com/framenolan/) or email me at [](mailto:).
+Please checkout [https://github.com/framenolan/](https://github.com/framenolan/).
 
 ## License
 
