@@ -4,7 +4,8 @@
 
 ## Deployed Site
 
-[Deployed Site](https://framenolan.github.io/note-taker)
+[Deployed Site](https://fierce-tor-46795.herokuapp.com/)
+[App Repo on GitHub](https://github.com/framenolan/note-taker)
 
 ## Table of Contents
 * [Description](#description)
@@ -20,7 +21,7 @@
 
 ## Description
 
-This Express.js app allows the user to take and save notes.
+This Express.js app allows the user to take and save notes, which appear on the page. 
 
 ## Installation
 
@@ -44,17 +45,15 @@ npm install
 
 ## Future Development
 
+There's an opportunity to add functionality to delete a note.
+
 ## Credits
 
-- Nolan Frame
-
-## Contributing
-
-
+- Nolan Frame [https://github.com/framenolan](https://github.com/framenolan)
 
 ## Tests
 
-
+No tests are included in this app.
 
 ## Questions
 
