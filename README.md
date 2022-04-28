@@ -41,7 +41,12 @@ npm install
 
 ## Usage
 
+To use this app, enter a Title and Body of your new note. When finished, click the Save icon in the top right of the page to save your note to the list. See screenshots below for details.
 
+![screenshot of landing page](./Assets/screenshot-landing-page.png)
+![screenshot of new note entry](./Assets/screenshot-new-note.png)
+![screenshot of new note entry after note is saves](./Assets/screenshot-note-saved.png)
+![screenshot of json data with new note added](./Assets/screenshot-api-backend.png)
 
 ## Future Development
 
