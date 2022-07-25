@@ -5,6 +5,7 @@
 ## Deployed Site
 
 [Deployed Site](https://fierce-tor-46795.herokuapp.com/)
+
 [App Repo on GitHub](https://github.com/framenolan/note-taker)
 
 ## Table of Contents
